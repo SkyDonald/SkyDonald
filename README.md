@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on a React Website for [ParrotBot](https://parrotbot.ga)
-- 📫 How to reach me: [Discord](discord.com/users/764213893815468042)
+- 📫 How to reach me: [Discord](https://discord.com/users/764213893815468042)
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com)
 - 🥖 I live in France
 
