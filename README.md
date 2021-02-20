@@ -17,7 +17,7 @@
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" /></a>
   <a href="https://nodejs.org"><img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" /></a>
   <a href="https://www.mongodb.com"><img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-589636?style=flat-square&logo=mongodb&logoColor=white" /></a>
-  <a href="https://typescriptlang.org"><img alt="typescript" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org"><img alt="typescript" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white" /></a>
   <a href="https://reactjs.org"><img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
   <a href="https://getbootstrap.com"><img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /></a>
   <a href="https://git-scm.com"><img alt="git" src="https://img.shields.io/badge/-Git-E94E31?style=flat-square&logo=git&logoColor=white" /></a>
