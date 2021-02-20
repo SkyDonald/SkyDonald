@@ -36,5 +36,5 @@
   <img src="https://profile-counter.glitch.me/SkyDonald/count.svg" />
 </p>
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkyDonald&show_icons=true&hide_border=true&theme=tokyonight" />
-<img align="right" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=skydonald&show_icons=true&theme=tokyonight&layout=compact" />
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkyDonald&show_icons=true&hide_border=true&theme=tokyonight" />
+<img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=skydonald&show_icons=true&theme=tokyonight&layout=compact" />
