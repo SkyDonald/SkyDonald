@@ -10,7 +10,7 @@
 - 🥖 I live in France
 
 
-## 🌍 Programming languages:
+## 🌍/⚙️ Programming Languages/Tools:
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?style=flat-square&logo=css3&logoColor=white" />
@@ -20,14 +20,9 @@
   <img alt="typescript" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
-
-## ⚙️ Programming Tools:
-<p>
-  <img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" />
-   <img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" />
-   <img alt="visualstudiocode" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
-   <img alt="bootstrap" width="50px" src="https://img.icons8.com/color/452/bootstrap.png" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-E94E31?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/-GitHub-161616?style=flat-square&logo=github&logoColor=white" />
+  <img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ## 🚩 Projects:
