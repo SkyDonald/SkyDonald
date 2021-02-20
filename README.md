@@ -16,6 +16,10 @@
   <img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?style=flat-square&logo=css3&logoColor=white" />
   <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-589636?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="typescript" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
 ## ⚙️ Programming Tools:
@@ -38,3 +42,5 @@
 
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkyDonald&show_icons=true&hide_border=true&theme=tokyonight" />
 <img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=skydonald&show_icons=true&theme=tokyonight&layout=compact" />
+<img alt="Readme streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SkyDonald&theme=tokyonight"/>
+<img alt="My Github Trophies" src="https://github-profile-trophy.vercel.app/?username=SkyDonald&theme=dracula" />
