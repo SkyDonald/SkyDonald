@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on a Discord Bot List [Bots & Co](https://bots-co.ga)
+- 🔭 I’m currently working on a Discord Bot List [Bots & Co](https://bots-co.xyz)
 - 📫 How to reach me: [Discord](https://discord.com/users/764213893815468042)
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com)
 - 🥖 I live in France
@@ -32,7 +32,7 @@
 ## 🚩 Projects:
 - [<img src="https://cdn.discordapp.com/avatars/764418734747549696/9c6531bfbbb6982a8b95a1ea83af698d.png" width="24"/> ParrotBot](https://parrotbot.ga)
 - [<img src="https://i.imgur.com/5SkCBK4.png" width="24"/> spdl-core](https://www.npmjs.com/package/spdl-core)
-- [<img src="https://bots-co.ga/assets/img/logo-square.jpg" width="24"/> Bots & Co](https://bots-co.ga)
+- [<img src="https://bots-co.ga/assets/img/logo-square.jpg" width="24"/> Bots & Co](https://bots-co.xyz)
 
 
 <p align="left"> 
