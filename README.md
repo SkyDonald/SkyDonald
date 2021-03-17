@@ -2,8 +2,6 @@
 
 [![discord](https://discord.com/api/guilds/745955508640415764/widget.png)](https://discord.gg/AUfTUJA)
 
-
-
 - 🔭 I’m currently working on a Custom Minecraft Launcher [SkyLauncher](https://github.com/SkyDonald/SkyLauncher)
 - 📫 How to reach me: [Discord](https://discord.com/users/764213893815468042)
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com)
@@ -41,6 +39,7 @@
   <img src="https://profile-counter.glitch.me/SkyDonald/count.svg" />
 </p>
 
+<img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/764213893815468042.png" />
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkyDonald&show_icons=true&hide_border=true&theme=tokyonight" />
 <img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=skydonald&show_icons=true&theme=tokyonight&layout=compact" />
 <img alt="Readme streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SkyDonald&theme=tokyonight"/>
