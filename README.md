@@ -1,6 +1,6 @@
 ### Hi, I'm SkyDonald
 
-<img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/764213893815468042.png" />
+<a href="https://discord.com/users/764213893815468042"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/764213893815468042.png" /></a>
 
 - 🔭 I’m currently working on a Custom Minecraft Launcher [SkyLauncher](https://github.com/SkyDonald/SkyLauncher)
 - 📫 How to reach me: [Discord](https://discord.com/users/764213893815468042)
@@ -38,8 +38,6 @@
   <img src="https://profile-counter.glitch.me/SkyDonald/count.svg" />
 </p>
 
-<a href="https://discord.gg/AUfTUJA"><img alt="Discord Server" src="https://invidget.switchblade.xyz/AUfTUJA" /></a>
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkyDonald&show_icons=true&hide_border=true&theme=tokyonight" />
+<a href="https://discord.gg/AUfTUJA"><img alt="Discord Server" src="https://invidget.switchblade.xyz/AUfTUJA" /></a><br />
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkyDonald&show_icons=true&hide_border=true&theme=tokyonight" /><br />
 <img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=skydonald&show_icons=true&theme=tokyonight&layout=compact" />
-<img alt="Readme streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SkyDonald&theme=tokyonight"/>
-<img alt="My Github Trophies" src="https://github-profile-trophy.vercel.app/?username=SkyDonald&theme=dracula" />
