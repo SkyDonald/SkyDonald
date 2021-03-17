@@ -1,7 +1,5 @@
 ### Hi, I'm SkyDonald
 
-[![discord](https://discord.com/api/guilds/745955508640415764/widget.png)](https://discord.gg/AUfTUJA)
-
 - 🔭 I’m currently working on a Custom Minecraft Launcher [SkyLauncher](https://github.com/SkyDonald/SkyLauncher)
 - 📫 How to reach me: [Discord](https://discord.com/users/764213893815468042)
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com)
@@ -33,12 +31,12 @@
 - [<img src="https://www.presse-citron.net/app/uploads/2020/06/deezer-logo.jpg" width="24"/> DeezerRPC](https://github.com/SkyDonald/DeezerRPC)
 - [<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" width="24"/> SkyLauncher](https://github.com/SkyDonald/SkyLauncher)
 
-
 <p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/SkyDonald/count.svg" />
 </p>
 
+<a href="https://discord.gg/AUfTUJA"><img alt="Discord Server" src="https://invidget.switchblade.xyz/AUfTUJA" /></a>
 <img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/764213893815468042.png" />
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkyDonald&show_icons=true&hide_border=true&theme=tokyonight" />
 <img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=skydonald&show_icons=true&theme=tokyonight&layout=compact" />
