@@ -1,7 +1,8 @@
 ### Hi, I'm SkyDonald
 
 - 🔭 I’m currently working on a Custom Minecraft Launcher [SkyLauncher](https://github.com/SkyDonald/SkyLauncher)
-- 📫 How to reach me: <a href="https://discord.com/users/764213893815468042"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/764213893815468042.png" /></a>
+- 📫 How to reach me:
+<a href="https://discord.com/users/764213893815468042"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/764213893815468042.png" /></a>
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com)
 - 🥖 I live in France
 
