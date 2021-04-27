@@ -32,7 +32,7 @@
 - [<img src="https://www.presse-citron.net/app/uploads/2020/06/deezer-logo.jpg" width="24"/> DeezerRPC](https://github.com/SkyDonald/DeezerRPC)
 - [<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" width="24"/> SkyLauncher](https://github.com/SkyDonald/SkyLauncher)
 
-## 😉 Cool Widget
+## 😉 Cool Widgets
 <a href="https://discord.com/users/764213893815468042"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/764213893815468042.png" /></a><br />
 <a href="https://discord.gg/AUfTUJA"><img alt="Discord Server" src="https://invidget.switchblade.xyz/AUfTUJA" /></a><br />
 <img alt="My Github stats" src="https://github-readme-stats.vercel.app/api?username=SkyDonald&show_icons=true&hide_border=true&theme=tokyonight" /><br />
