@@ -14,7 +14,7 @@
   <a href="https://nodejs.org"><img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" /></a>
   <a href="https://www.typescriptlang.org"><img alt="typescript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" /></a>
   <a href="https://reactjs.org"><img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
-  <a href="https://www.java.com"><img alt="java" src="https://img.shields.io/badge/-Java-F78700?style=flat-square&logo=java&logoColor=white" /></a>
+  <a href="https://www.java.com"><img alt="java" src="https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=EA2D2E" /></a>
 </p>
 
 ## ⚙️ Programming Tools
