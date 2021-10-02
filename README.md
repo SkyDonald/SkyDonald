@@ -28,10 +28,8 @@
 </p>
 
 ## 🚩 Projects:
-- [<img src="https://cdn.discordapp.com/avatars/764418734747549696/9c6531bfbbb6982a8b95a1ea83af698d.png" width="24"/> ParrotBot](https://parrotbot.ga)
-- [<img src="https://i.imgur.com/5SkCBK4.png" width="24"/> spdl-core](https://www.npmjs.com/package/spdl-core)
-- [<img src="https://www.presse-citron.net/app/uploads/2020/06/deezer-logo.jpg" width="24"/> DeezerRPC](https://github.com/SkyDonald/DeezerRPC)
-- [<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" width="24"/> SkyLauncher](https://github.com/SkyDonald/SkyLauncher)
+- [<img src="https://djparrot.xyz/DJParrot.png" width="24"/> DJ Parrot](https://djparrot.xyz)
+- [<img src="https://raw.githubusercontent.com/Monoponline/client/main/public/logo.png" width="24"/> Monoponline](https://github.com/Monoponline)
 
 ## 😉 Cool Widgets
 <a href="https://discord.com/users/764213893815468042"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/764213893815468042.png" /></a><br />
