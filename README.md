@@ -33,17 +33,17 @@
 <h3 align="left">Support:</h3>
 <p align="left">
   <a href="https://www.buymeacoffee.com/SkyDonald">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="SkyDonald" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="SkyDonald" width="160" />
   </a>
 </p>
 <p align="left">
   <a href="https://www.patreon.com/skydonald">
-    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png">
+    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160" />
   </a>
 </p>
 <p align="left">
   <a href="https://ko-fi.com/M4M26MFDB">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="SkyDonald" />
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="SkyDonald" width="160" />
   </a>
 </p>
 <br><br>
