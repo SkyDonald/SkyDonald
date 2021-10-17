@@ -36,3 +36,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skydonald&show_icons=true&locale=en&layout=compact" alt="skydonald" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skydonald&show_icons=true&locale=en" alt="skydonald" /></p>
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('skydonald', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
