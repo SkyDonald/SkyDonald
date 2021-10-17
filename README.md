@@ -35,13 +35,18 @@
   <a href="https://www.buymeacoffee.com/SkyDonald">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SkyDonald" />
   </a>
-  <a href="https://ko-fi.com/M4M26MFDB">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="SkyDonald" />
-  </a>
+</p>
+<p align="left">
   <a href="https://www.patreon.com/skydonald">
     <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
   </a>
-</p><br><br>
+</p>
+<p align="left">
+  <a href="https://ko-fi.com/M4M26MFDB">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="SkyDonald" />
+  </a>
+</p>
+<br><br>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=skydonald&show_icons=true&locale=en&layout=compact" alt="skydonald" /></p>
 
