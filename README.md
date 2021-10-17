@@ -1,38 +1,38 @@
-### Hi, I'm SkyDonald
+<h1 align="center">Hi 👋, I'm SkyDonald</h1>
+<h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on [DJ Parrot](https://djparrot.xyz)
-- 📫 How to reach me: [Discord](https://discord.com/users/764213893815468042)
-- 💻 I use [Visual Studio Code](https://code.visualstudio.com)
-- 🥖 I live in France
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skydonald&label=Profile%20views&color=0e75b6&style=flat" alt="skydonald" /> </p>
 
+<p align="left"> <a href="https://twitter.com/skydonalddev" target="blank"><img src="https://img.shields.io/twitter/follow/skydonalddev?logo=twitter&style=for-the-badge" alt="skydonalddev" /></a> </p>
 
-## 🌍 Programming Languages:
-<p>
-  <a href="https://developer.mozilla.org/docs/Web/HTML"><img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS"><img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?style=flat-square&logo=css3&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="js" src="https://img.shields.io/badge/-JavaScript-FFEE00?style=flat-square&logo=javascript&logoColor=black" /></a>
-  <a href="https://nodejs.org"><img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" /></a>
-  <a href="https://www.typescriptlang.org"><img alt="typescript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" /></a>
-  <a href="https://reactjs.org"><img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
-  <a href="https://www.java.com"><img alt="java" src="https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&color=EA2D2E" /></a>
+- 🔭 I’m currently working on [Monoponline](https://github.com/Monoponline)
+
+- 🌱 I’m currently learning **Go**
+
+- 🤝 I’m looking for help with [Monoponline website (front)](https://github.com/Monoponline/client)
+
+- 👨‍💻 All of my projects are available at [https://skydonald.com](https://skydonald.com)
+
+- 📫 How to reach me **SkyDonald#2666 on Discord**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/skydonald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="skydonald" height="30" width="40" /></a>
+<a href="https://dev.to/skydonald" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="skydonald" height="30" width="40" /></a>
+<a href="https://twitter.com/skydonalddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skydonalddev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/skydonald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="skydonald" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14915293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14915293" height="30" width="40" /></a>
+<a href="https://codesandbox.com/skydonald_5048" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="skydonald_5048" height="30" width="40" /></a>
+<a href="https://instagram.com/skydonald.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skydonald.dev" height="30" width="40" /></a>
+<a href="https://discord.gg/AUfTUJA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AUfTUJA" height="30" width="40" /></a>
 </p>
 
-## ⚙️ Programming Tools
-<p>
-  <a href="https://www.mongodb.com"><img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-589636?style=flat-square&logo=mongodb&logoColor=white" /></a>
-  <a href="https://getbootstrap.com"><img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /></a>
-  <a href="https://git-scm.com"><img alt="git" src="https://img.shields.io/badge/-Git-E94E31?style=flat-square&logo=git&logoColor=white" /></a>
-  <a href="https://www.npmjs.com"><img alt="npm" src="https://img.shields.io/badge/-NPM-FFF?style=flat-square&logo=npm&logoColor=white" /></a>
-  <a href="https://github.com"><img alt="github" src="https://img.shields.io/badge/-GitHub-161616?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://code.visualstudio.com"><img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" /></a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🚩 Projects:
-- [<img src="https://djparrot.xyz/DJParrot.png" width="24"/> DJ Parrot](https://djparrot.xyz)
-- [<img src="https://raw.githubusercontent.com/Monoponline/client/main/public/logo.png" width="24"/> Monoponline](https://github.com/Monoponline)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/SkyDonald"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SkyDonald" /></a></p><br><br>
 
-## 😉 Cool Widgets
-<a href="https://discord.com/users/764213893815468042"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/764213893815468042.png" /></a><br />
-<a href="https://discord.gg/AUfTUJA"><img alt="Discord Server" src="https://invidget.switchblade.xyz/AUfTUJA" /></a><br />
-<img alt="My Github stats" src="https://github-readme-stats.vercel.app/api?username=SkyDonald&show_icons=true&hide_border=true&theme=tokyonight" /><br />
-<img alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=skydonald&show_icons=true&theme=tokyonight&layout=compact" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skydonald&show_icons=true&locale=en&layout=compact" alt="skydonald" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skydonald&show_icons=true&locale=en" alt="skydonald" /></p>
