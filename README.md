@@ -36,6 +36,6 @@
   <a href="https://ko-fi.com/M4M26MFDB"> <img align="left" src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="SkyDonald" /></a>
 </p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skydonald&show_icons=true&locale=en&layout=compact" alt="skydonald" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=skydonald&show_icons=true&locale=en&layout=compact" alt="skydonald" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skydonald&show_icons=true&locale=en" alt="skydonald" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=skydonald&show_icons=true&locale=en" alt="skydonald" /></p>
