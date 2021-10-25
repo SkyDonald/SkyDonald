@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Monoponline website (front)](https://github.com/Monoponline/client)
 
-- 👨‍💻 All of my projects are available at [https://skydonald.com](https://skydonald.com)
+- 👨‍💻 All of my projects are available at [skydonald.com](https://www.skydonald.com)
 
 - 📫 How to reach me **SkyDonald#2666 on Discord**
 
